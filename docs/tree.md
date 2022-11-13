@@ -1,0 +1,9 @@
+boot 系统引导。
+fs 文件系统。
+include 头文件。一些C标准库，系统核心库。
+init 入口。main.c。
+kernel 内核。
+lib 库。C源程序，一些基本核心的程序。
+mm 内存管理
+tools C程序编译构建相关。不算系统文件
+Makefile C程序编译构建相关。不算系统文件。
